@@ -1,7 +1,7 @@
 #!/usr/bin/bash
-# code are obtained from https://docs.docker.com/engine/install/ubuntu/
-# I combine them to rune as a script
-# Copyright belongs to Docker
+# code obtained from https://docs.docker.com/engine/install/ubuntu/
+# I combine them here as a script
+# Copyright of the code belongs to Docker
 
 # apt-get update
 apt-get update
