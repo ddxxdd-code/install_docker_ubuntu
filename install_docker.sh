@@ -20,7 +20,7 @@ apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 # run Docker hello-world
 docker run hello-world
 # final check on installation
-if $?
+if [ $? -eq 0 ]
 then
   echo success!
 else
